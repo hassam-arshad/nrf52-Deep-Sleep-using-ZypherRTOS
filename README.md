@@ -20,7 +20,7 @@ USB plug on J2
 External Supply 3.3V with Ammeter -- > P21
 
 In this setup the chip is powered by External supply so in that case we can measure the current via ammetter easily. At startup the LED1 light up for 10 seconds and then goes to System off.
-You can check in the video current is less then 10 uA when LED goes off after 10 seconds and if you press the Button 1 it will wake up the system.
+You can check that current is less then 10 uA when LED goes off after 10 seconds and if you press the Button 1 it will wake up the system.
 
 
 # Testing Method 2:
